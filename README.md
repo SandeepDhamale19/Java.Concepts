@@ -2,7 +2,7 @@
 
 ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103 "Open Source Love")
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge "Apache License")][license]
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge "Apache License")]
 
 ###  :earth_asia: Introduction
 This is a repository consisting of code and important information on most of the Core Java Language Features and Standard Class Libraries, ranging from basic data types to advanced topics. 
